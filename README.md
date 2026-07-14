@@ -16,7 +16,7 @@ The dashboard helps users understand how funding impacts startup performance thr
 - Identify high-performing industries and startups
 - Provide business insights for investment decisions
 
-# Dahboard Interaction : <img width="1175" height="728" alt="image" src="https://github.com/user-attachments/assets/b5f8809b-d711-45e1-b8de-9b83a122c63f" />    <img width="1176" height="726" alt="image" src="https://github.com/user-attachments/assets/d546f010-03b9-48bd-aca6-28a7f6857bb9" />                            <img width="1076" height="712" alt="image" src="https://github.com/user-attachments/assets/36664bf8-ee0a-4ad7-ae9e-9ff62e10c256" />
+# Dahboard Interaction : <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/b5f8809b-d711-45e1-b8de-9b83a122c63f" />    <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/d546f010-03b9-48bd-aca6-28a7f6857bb9" />                            <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/36664bf8-ee0a-4ad7-ae9e-9ff62e10c256" />
 
 ## Tools & Technologies
 
